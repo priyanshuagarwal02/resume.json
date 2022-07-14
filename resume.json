@@ -1,0 +1,147 @@
+{
+    "basics": {
+        "name": "PRIYANSHU AGARWAL",
+        "label": "STUDENT",
+        "picture": "",
+        "email": "2021kucp1056@iiitkota.ac.in",
+        "phone": "+919415536013",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "JHANSI",
+            "postalCode": "284002",
+            "city": "JHANSI",
+            "countryCode": "India",
+            "region": "U.P."
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "linkedin",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Instagram",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "BEGINNER",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "",
+                "",
+                "",
+                "",
+                "PHP",
+                "MySQL",
+                "Git",
+                "C/C++",
+                "Java",
+                "Python",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English/Hindi/Hinglish",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Online Gaming",
+            "keywords": [
+                "Free Fire"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Carrom Board",
+                "Badminton"
+            ]
+        }
+    ]
+}
